@@ -1,4 +1,4 @@
-**QuizMaster**
+##QuizMaster##
 
 *Description*
 QuizMaster is a dynamic and interactive quiz application designed to offer users a comprehensive and engaging way to test their knowledge across various subjects. Tailored for learners of all ages, QuizMaster aims to make learning fun and accessible anywhere, anytime. With a focus on user experience, the app presents a clean and intuitive interface that guides users through a series of questions, immediate feedback on answers, and detailed statistics to track their progress over time.
